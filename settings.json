@@ -1,0 +1,13 @@
+{
+    "name": "Simon says",
+    "width": 800,
+    "button_size": 200,
+    "animation_speed": 20,
+    "fps": 60,
+    "colours": {
+        "LIGHTGREY": [128, 128, 128],
+        "GREY": [100, 100, 100],
+        "BLUE": [0, 0, 255],
+        "WHITE": [255, 255, 255]
+    }
+}
